@@ -6,7 +6,7 @@ The notebook trains eight models on the Open University Learning Analytics Datas
 
 ## Author
 
-Principie Cyubahiro, Bachelor of Software Engineering, African Leadership University.
+Steven Kayitare, Bachelor of Software Engineering, African Leadership University.
 
 ## Problem
 
